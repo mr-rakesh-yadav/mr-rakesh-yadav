@@ -3,11 +3,11 @@
 - 💬 Pronouns: He/Him/Mr.
 
 ## About Me
-👋 Hi, I’m @mr-rakesh-yadav(Rakesh Yadav), a Software Developer Engineer at Daffodil Software Pvt. Ltd. I have a strong focus on crafting seamless web experiences using React.js, JavaScript, and TypeScript. With 1.5+ years of hands-on experience in web development, I take pride in solving complex problems and delivering innovative solutions.
+👋 Hi, I’m @mr-rakesh-yadav(Rakesh Yadav), an Associate Software Engineer at Daffodil Software Pvt. Ltd. I have a strong focus on crafting seamless web experiences using React.js, JavaScript, and TypeScript. With 1.5+ years of hands-on experience in web development, I take pride in solving complex problems and delivering innovative solutions.
 
 ## Experience
 
-A highly skilled React.js Developer with 2+ years of experience in front-end web development. My passion lies in crafting seamless and delightful user experiences through innovative React.js applications.
+A highly skilled React.js Developer with 3+ years of experience in front-end web development. My passion lies in crafting seamless and delightful user experiences through innovative React.js applications.
 
 ## Skills
 
