@@ -3,7 +3,7 @@
 - 💬 Pronouns: He/Him/Mr.
 
 ## About Me
-👋 Hi, I’m @mr-rakesh-yadav(Rakesh Yadav), an Associate Software Engineer at Daffodil Software Pvt. Ltd. I have a strong focus on crafting seamless web experiences using React.js, JavaScript, and TypeScript. With 1.5+ years of hands-on experience in web development, I take pride in solving complex problems and delivering innovative solutions.
+👋 Hi, I’m @mr-rakesh-yadav(Rakesh Yadav), an Associate Software Engineer at Daffodil Software Pvt. Ltd. I have a strong focus on crafting seamless web experiences using React.js, JavaScript, and TypeScript. With 3+ years of hands-on experience in web development, I take pride in solving complex problems and delivering innovative solutions.
 
 ## Experience
 
@@ -73,7 +73,7 @@ As a firm believer in continuous learning, I am dedicated to staying up-to-date 
 
 Thank you for visiting my GitHub profile. Let's create amazing things together!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Er-Rakesh-Yadav&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mr-rakesh-yadav&show_icons=true&theme=radical)
 
 *Note: The GitHub stats above are just for illustrative purposes and can be added using GitHub Readme Stats API.*
 
